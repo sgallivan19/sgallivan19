@@ -1,5 +1,5 @@
 ### Hi! 👋
-### I'm Seamus
+My name is Seamus Gallivan and I am an MS in Biostatistics student at UCLA. 
 <!--
 **sgallivan19/sgallivan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
