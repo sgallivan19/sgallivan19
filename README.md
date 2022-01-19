@@ -2,7 +2,7 @@
 My name is Seamus Gallivan and I'm an aspiring data scientist. I'm from northern California, living and studying at UCLA in Los Angeles. For more information about me you can check out my [<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png"/>](https://www.linkedin.com/in/seamus-gallivan-b21b4312a/).
 
 ### 🧰 Seamus' Toolbox
-<img src= "https://www.r-project.org/logo/Rlogo.svg" width="50" height="50"/>  <img src= "https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="50" height="40"/> <img src= "https://camo.githubusercontent.com/259d57ab6b89966a330f5ab827151298b725c1fea4cd6a5c1c246ed190ad588c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e75782d7475782e737667" width="50" height="50"/>
+<img src= "https://www.r-project.org/logo/Rlogo.svg" width="50" height="50"/>  <img src= "https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="50" height="50"/> <img src= "https://camo.githubusercontent.com/259d57ab6b89966a330f5ab827151298b725c1fea4cd6a5c1c246ed190ad588c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e75782d7475782e737667" width="50" height="50"/>
 
 <!--
 **sgallivan19/sgallivan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
